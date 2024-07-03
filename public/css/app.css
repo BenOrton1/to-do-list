@@ -1,0 +1,38 @@
+body {
+    background-color: #f1f1f1;
+}
+
+header {
+    padding: 2rem 0;
+    margin-bottom: 4rem;
+}
+
+footer {
+    padding: 2rem 0;
+    margin-top: 4rem;
+}
+
+.table {
+    background-color: white;
+    border: solid white 2rem;
+}
+
+.text-decoration-line-through{
+    text-decoration: line-through;
+}
+
+.white {
+    color: white;
+}
+
+th, td {
+    font-weight: 300;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.fw-light{
+    font-weight: lighter;
+}
